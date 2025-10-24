@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/akcag/gtk-proj/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/gtk_proj.dir/includes_C.rsp -g -o CMakeFiles\\gtk_proj.dir\\main.c.obj -c C:\\Users\\akcag\\gtk-proj\\main.c",
+  "file": "C:/Users/akcag/gtk-proj/main.c",
+  "output": "CMakeFiles/gtk_proj.dir/main.c.obj"
+}
+]

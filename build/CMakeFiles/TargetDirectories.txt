@@ -1,0 +1,3 @@
+C:/Users/akcag/gtk-proj/build/CMakeFiles/gtk_proj.dir
+C:/Users/akcag/gtk-proj/build/CMakeFiles/edit_cache.dir
+C:/Users/akcag/gtk-proj/build/CMakeFiles/rebuild_cache.dir
