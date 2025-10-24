@@ -1,3 +1,0 @@
-C:\Users\akcag\scoop\apps\cmake\current\bin\cmake.exe -E rm -f CMakeFiles\gtk_proj.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\gtk_proj.dir/objects.a @CMakeFiles\gtk_proj.dir\objects1.rsp
-C:\msys64\ucrt64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\gtk_proj.dir/objects.a -Wl,--no-whole-archive -o gtk_proj.exe -Wl,--out-implib,libgtk_proj.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gtk_proj.dir\linkLibs.rsp
